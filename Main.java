@@ -14,5 +14,9 @@ public class Main {
 		int subtraction = first - second;
 		return subtraction;
 	}
+	public int divNums(int first, int second) {
+		int division = first / second;
+		return division;
+	}
 
 }
