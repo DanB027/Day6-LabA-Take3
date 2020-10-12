@@ -22,5 +22,9 @@ public class Main {
 		int multiply = first * second;
 		return multiply;
 	}
+	public double circNum(int radius) {
+		double circumference = 2 * 3.14 * radius;
+		return circumference;
+	}
 
 }
