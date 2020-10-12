@@ -6,10 +6,13 @@ public class Main {
 		// TODO Auto-generated method stub
 
 	}
-	//test
 	public int addNums(int first, int second) {
 		int addition = first + second;
 		return addition;
+	}
+	public int subNums(int first, int second) {
+		int subtraction = first - second;
+		return subtraction;
 	}
 
 }
