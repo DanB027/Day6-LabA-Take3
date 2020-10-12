@@ -18,5 +18,9 @@ public class Main {
 		int division = first / second;
 		return division;
 	}
+	public int multiNums(int first, int second) {
+		int multiply = first * second;
+		return multiply;
+	}
 
 }
